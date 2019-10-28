@@ -25,7 +25,7 @@ Node JS and Express JS Index
   <li><a href="javascript:;" title="Process module">Process module</a></li>
   <li><a href="javascript:;" title="Control Flow">Control Flow</a></li>
   <li><a href="javascript:;" title="ES6 Module (ESM)">ES6 Module (ESM)</a></li>
-  <li><a href="javascript:;" title="Timers">Timers</a></li>
+  <li><a href="https://github.com/suryansh54/nodejs-timers" title="Timers">Timers</a></li>
   <li><a href="javascript:;" title="NodeJS debugging">NodeJS debugging</a></li>
   <li><a href="javascript:;" title="Restful API">Restful API</a></li>
   <li><a href="javascript:;" title="View (EJS), Handle Bar">View (EJS), Handle Bar</a></li>
