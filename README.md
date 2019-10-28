@@ -6,7 +6,7 @@ Node JS and Express JS Index
   <li><a href="javascript:;" title="Environment Setup">Environment Setup</a></li>
   <li><a href="javascript:;" title="REPL">REPL</a></li>
   <li><a href="javascript:;" title="Event Loop">Event Loop</a></li>
-  <li><a href="javascript:;" title="Event emitter">Event emitter</a></li>
+  <li><a href="https://github.com/suryansh54/node.js-event-emitter" title="Event emitter">Event emitter</a></li>
   <li><a href="javascript:;" title="Module (Import and Export)- Common JS">Module (Import and Export)- Common JS</a></li>
   <li><a href="javascript:;" title="Callbacks Concept">Callbacks Concept</a></li>
   <li><a href="javascript:;" title="Buffer">Buffer</a></li>
@@ -15,7 +15,7 @@ Node JS and Express JS Index
   <li><a href="javascript:;" title="Global Object">Global Object</a></li>
   <li><a href="javascript:;" title="Utility Module">Utility Module</a></li>
   <li><a href="javascript:;" title="Web Module">Web Module</a></li>
-  <li><a href="javascript:;" title="Child process">Child process</a></li>
+  <li><a href="https://github.com/suryansh54/nodejs-child-process" title="Child process">Child process</a></li>
   <li><a href="javascript:;" title="Cluster">Cluster</a></li>
   <li><a href="javascript:;" title="Worker thread">Worker thread</a></li>
   <li><a href="javascript:;" title="Read Line">Read Line</a></li>
