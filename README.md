@@ -36,7 +36,6 @@ Node JS and Express JS Index
   </li>
   <li><a href="javascript:;" title="Worker thread">Worker thread</a></li>
   <li><a href="javascript:;" title="Process module">Process module</a></li>
-  <li><a href="javascript:;" title="Console Object">Console Object</a></li>
   <li><a href="javascript:;" title="Control Flow">Control Flow</a></li>
   <li><a href="javascript:;" title="Middleware">Middleware</a></li>
   <li><a href="javascript:;" title="SSL/TLS setup">SSL/TLS setup</a></li>
@@ -64,15 +63,16 @@ Node JS and Express JS Index
       <li><a href="javascript:;" title="Helmet">Helmet</a></li>
       <li><a href="javascript:;" title="Logging (Morgan, Winston)">Logging (Morgan, Winston)</a></li>
       <li><a href="javascript:;" title="bcryptjs">bcryptjs</a></li>
-      <li><a href="javascript:;" title="Caching">Caching</a></li>
-      <li><a href="javascript:;" title="Cokkies">Cokkies</a></li>
-      <li><a href="javascript:;" title="Session">Session</a></li>
-      <li><a href="javascript:;" title="Mongo vs MongoClient">Mongo vs MongoClient</a></li>
+      <li><a href="javascript:;" title="Database">Database</a>
+        <ul>
+          <li><a href="javascript:;" title="mysql">mysql</a></li>
+          <li><a href="javascript:;" title="Mongo vs MongoClient">Mongo vs MongoClient</a></li>
+        </ul>
+      </li>
     </ul>
   </li>
   <li><a href="javascript:;" title="Test Cases( Jasmine, Chai, Sinon, Mocha, Karma )">Test Cases( Jasmine, Chai, Sinon, Mocha, Karma )</a></li>
   <li><a href="javascript:;" title=".pem and .cert file">.pem and .cert file</a></li>
-  <li><a href="javascript:;" title="JSON vs BSON">JSON vs BSON</a></li>
 </ol>
 
 ### References
