@@ -58,14 +58,20 @@ Node JS and Express JS Index
       <li><a href="javascript:;" title="Express Flash">Express Flash</a></li>
       <li><a href="javascript:;" title="cookie-parser">cookie-parser</a></li>
       <li><a href="javascript:;" title="dotenv">dotenv</a></li>
-      <li><a href="javascript:;" title="Hapi - JOI">Hapi - JOI</a></li>
+      <li><a href="javascript:;" title="Hapi, JOI">Hapi, JOI</a></li>
       <li><a href="javascript:;" title="PM-2 ( forever, StrongPM )">PM-2 ( forever, StrongPM )</a></li>
       <li><a href="javascript:;" title="Helmet">Helmet</a></li>
       <li><a href="javascript:;" title="Logging (Morgan, Winston)">Logging (Morgan, Winston)</a></li>
       <li><a href="javascript:;" title="bcryptjs">bcryptjs</a></li>
+      <li><a href="javascript:;" title="Gulp JS">Gulp JS</a></li>
+      <li><a href="javascript:;" title="Async.js">Async.js</a></li>
+      <li><a href="javascript:;" title="underscore.js">underscore.js</a></li>
+      <li><a href="javascript:;" title="Nodemailer">Nodemailer</a></li>
+      <li><a href="javascript:;" title="Lodash">Lodash</a></li>
+      <li><a href="javascript:;" title="JSHint">JSHint</a></li>
       <li><a href="javascript:;" title="Database">Database</a>
         <ul>
-          <li><a href="javascript:;" title="mysql">mysql</a></li>
+          <li><a href="javascript:;" title="Node MySQL">Node MySQL</a></li>
           <li><a href="javascript:;" title="Mongo vs MongoClient">Mongo vs MongoClient</a></li>
         </ul>
       </li>
@@ -76,3 +82,5 @@ Node JS and Express JS Index
 </ol>
 
 ### References
+- https://colorlib.com/wp/npm-packages-node-js
+- https://nodejs.org/api
