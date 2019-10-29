@@ -9,9 +9,9 @@ Node JS and Express JS Index
   <li><a href="https://github.com/suryansh54/node.js-event-emitter" title="Event emitter">Event emitter</a></li>
   <li><a href="javascript:;" title="Module (Import and Export)- Common JS">Module (Import and Export)- Common JS</a></li>
   <li><a href="javascript:;" title="Callbacks Concept">Callbacks Concept</a></li>
-  <li><a href="javascript:;" title="Buffer">Buffer</a></li>
-  <li><a href="javascript:;" title="Streams">Streams</a></li>
-  <li><a href="javascript:;" title="File System">File System</a></li>
+  <li><a href="https://github.com/suryansh54/nodejs-stream-and-buffer/blob/master/README.md#buffer" title="Buffer">Buffer</a></li>
+  <li><a href="https://github.com/suryansh54/nodejs-stream-and-buffer/blob/master/README.md#stream" title="Streams">Streams</a></li>
+  <li><a href="https://github.com/suryansh54/nodejs-file-system" title="File System">File System</a></li>
   <li><a href="javascript:;" title="Global Object">Global Object</a></li>
   <li><a href="javascript:;" title="Utility Module">Utility Module</a></li>
   <li><a href="javascript:;" title="Web Module">Web Module</a></li>
