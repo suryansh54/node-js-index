@@ -3,17 +3,14 @@ Node JS and Express JS Index
 
 <ol>
   <li><a href="javascript:;" title="What is Node JS?">What is Node JS?</a></li>
-  <li><a href="javascript:;" title="Environment Setup">Environment Setup</a></li>
   <li><a href="javascript:;" title="REPL">REPL</a></li>
   <li><a href="javascript:;" title="Event Loop">Event Loop</a></li>
-  <li><a href="javascript:;" title="Event Loop Node vs Browser">Event Loop Node vs Browser</a></li>
-  <li><a href="https://github.com/suryansh54/node.js-event-emitter" title="Event emitter">Event emitter</a></li>
-  <li><a href="javascript:;" title="Module (Import and Export)- Common JS (require vs Import/Export)">Module (Import and Export)- Common JS (require vs Import/Export)</a></li>
-  <li><a href="javascript:;" title="ES6 Module (ESM)">ES6 Module (ESM)</a></li>
+  <li><a href="javascript:;" title="Module (Import and Export)- Common JS (require vs Import/Export) ES6 Module (ESM)">Module (Import and Export)- Common JS (require vs Import/Export) ES6 Module (ESM)</a></li>
   <li><a href="javascript:;" title="Callbacks Concept">Callbacks Concept</a></li>
   <li><a href="javascript:;" title="Routing - Query and Route Parameter">Routing - Query and Route Parameter</a></li>
   <li><a href="javascript:;" title="Restful API">Restful API</a></li>
   <li><a href="javascript:;" title="View (EJS), Handle Bar">View (EJS), Handle Bar</a></li>
+  <li><a href="https://github.com/suryansh54/node.js-event-emitter" title="Event emitter">Event emitter</a></li>
   <li><a href="javascript:;" title="Global Object">Global Object</a></li>
   <li><a href="javascript:;" title="Utility Module">Utility Module</a>
     <ul>
@@ -41,12 +38,15 @@ Node JS and Express JS Index
   <li><a href="javascript:;" title="Process module">Process module</a></li>
   <li><a href="javascript:;" title="Console Object">Console Object</a></li>
   <li><a href="javascript:;" title="Control Flow">Control Flow</a></li>
-  <li><a href="javascript:;" title="Caching">Caching</a></li>
-  <li><a href="javascript:;" title="Cokkies">Cokkies</a></li>
-  <li><a href="javascript:;" title="Session">Session</a></li>
   <li><a href="javascript:;" title="Middleware">Middleware</a></li>
   <li><a href="javascript:;" title="SSL/TLS setup">SSL/TLS setup</a></li>
-  <li><a href="javascript:;" title="Socket.io">Socket.io</a></li>
+  <li><a href="javascript:;" title="Socket.io">Socket.io</a>
+    <ul>
+        <li><a href="javascript:;" title="Real-time analytics">Real-time analytics</a></li>
+        <li><a href="javascript:;" title="Instant messaging and chat">Instant messaging and chat</a></li>
+      <li><a href="javascript:;" title="Binary streaming">Binary streaming</a></li>
+    </ul>
+  </li>
   <li><a href="javascript:;" title="Common modules">Common modules</a>
     <ul>
       <li><a href="https://github.com/suryansh54/multer-file-upload" title="Multer (File upload)">Multer (File upload)</a></li>
@@ -64,6 +64,9 @@ Node JS and Express JS Index
       <li><a href="javascript:;" title="Helmet">Helmet</a></li>
       <li><a href="javascript:;" title="Logging (Morgan, Winston)">Logging (Morgan, Winston)</a></li>
       <li><a href="javascript:;" title="bcryptjs">bcryptjs</a></li>
+      <li><a href="javascript:;" title="Caching">Caching</a></li>
+      <li><a href="javascript:;" title="Cokkies">Cokkies</a></li>
+      <li><a href="javascript:;" title="Session">Session</a></li>
       <li><a href="javascript:;" title="Mongo vs MongoClient">Mongo vs MongoClient</a></li>
     </ul>
   </li>
