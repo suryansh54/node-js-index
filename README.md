@@ -7,7 +7,7 @@ Node JS and Express JS Index
   <li><a href="javascript:;" title="Event Loop">Event Loop</a></li>
   <li><a href="javascript:;" title="Module (Import and Export)- Common JS (require vs Import/Export) ES6 Module (ESM)">Module (Import and Export)- Common JS (require vs Import/Export) ES6 Module (ESM)</a></li>
   <li><a href="javascript:;" title="Callbacks Concept">Callbacks Concept</a></li>
-  <li><a href="javascript:;" title="Routing - Query and Route Parameter">Routing - Query and Route Parameter</a></li>
+  <li><a href="https://github.com/suryansh54/nodejs-routing" title="Routing">Routing</a></li>
   <li><a href="javascript:;" title="Restful API">Restful API</a></li>
   <li><a href="javascript:;" title="View (EJS), Handle Bar">View (EJS), Handle Bar</a></li>
   <li><a href="https://github.com/suryansh54/node.js-event-emitter" title="Event emitter">Event emitter</a></li>
