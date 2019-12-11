@@ -11,7 +11,7 @@ Node JS and Express JS Index
   <li><a href="javascript:;" title="Restful API">Restful API</a></li>
   <li><a href="javascript:;" title="View (EJS), Handle Bar">View (EJS), Handle Bar</a></li>
   <li><a href="https://github.com/suryansh54/node.js-event-emitter" title="Event emitter">Event emitter</a></li>
-  <li><a href="javascript:;" title="Global Object">Global Object</a></li>
+  <li><a href="https://github.com/suryansh54/nodejs-global-object" title="Global Object">Global Object</a></li>
   <li><a href="https://github.com/suryansh54/nodejs-assert-module" title="Assertion Testing">Assertion Testing</a></li>
   <li><a href="javascript:;" title="Utility Module">Utility Module</a>
     <ul>
